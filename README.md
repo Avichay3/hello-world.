@@ -1,2 +1,2 @@
-# hello-world.
+# get_started.
 my projects
